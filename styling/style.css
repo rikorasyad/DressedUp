@@ -300,3 +300,11 @@ cursor: pointer;
   .form-container .btn:hover, .open-button:hover {
     opacity: 1;
   } 
+
+
+#btn-login, #btn-logout {
+    padding: .5rem 1.5rem;
+    background-color: #eceeef;
+    color: #000;
+    border: none;
+}
